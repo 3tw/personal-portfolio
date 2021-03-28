@@ -20,7 +20,7 @@ git commit -m 'deploy'
 git branch -m gh-pages
 
 # add remote repo
-git remote add origin https://github.com/3tw/portfolio
+git remote add origin https://github.com/3tw/portfolio-old
 
 # if you are deploying to https://<USERNAME>.github.io
 #git push -f git@github.com:<3tw>/<3tw>.github.io.git master
